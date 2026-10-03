@@ -238,7 +238,7 @@ This project involved designing and implementing the core gameplay and interacti
 ## 🔗 Links
 
 * **GitHub:** https://github.com/NourDyab/Pokemon-Go-AR
-* **LinkedIn:** linkedin.com/in/nour-dyab
+* **LinkedIn:** [linkedin.com/in/nour-dyab](https://www.linkedin.com/in/nour-dyab/)
 * **Portfolio / Behance:** [Add your portfolio link here](https://www.behance.net/nourdyab)
 
 ---
