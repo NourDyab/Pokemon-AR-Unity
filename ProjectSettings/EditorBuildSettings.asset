@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Project/Scenes/AR_Pokemon.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Project/Scenes/AR_Pokemon_V1.unity
+    guid: 3427533074186564c9145053606ff580
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 2a1a80285fc6e5e4898e02c78d23783e, type: 2}
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 5e0d634b528a8f14fb294432d72f92ce, type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 5ccf499d98c07f7419f7e14e01c32f34, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 289c1b55c9541489481df5cc06664110, type: 3}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: d2c96ce4463a9004d956d93b18afdd69, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 2aa60e8c6ab6cad448bf11b6c46cb246, type: 2}
